@@ -1,0 +1,13 @@
+{
+  "Post": {
+    "title": "vamsi post",
+    "views": "1",
+    "published": "true",
+    "createdAt": "24-May-2021",
+    "comments": "First Comment"
+  },
+  "Comment": {
+    "body": "This is a sample comment",
+    "post": "Post"
+  }
+}
