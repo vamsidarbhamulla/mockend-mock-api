@@ -1,13 +1,12 @@
 {
   "Post": {
-    "title": "vamsi post",
-    "views": "1",
-    "published": "true",
-    "createdAt": "24-May-2021",
-    "comments": "First Comment"
+    "title": "string",
+    "views": "int",
+    "published": "boolean",
+    "comments": "Comment[]"
   },
   "Comment": {
-    "body": "This is a sample comment",
+    "body": "string",
     "post": "Post"
   }
 }
